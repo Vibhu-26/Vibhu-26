@@ -10,7 +10,7 @@ I am a College Student with a passion for Frontend Developer. I enjoy working on
 ## 💼 My Projects
 Here are a few projects I've worked on:
 - Music Website (link-to-your-project): A brief description of the project.
-- Food Website(link-to-your-project): A brief description of the project.
+- Food Website(https://github.com/Vibhu-26/Food.git): This website features a variety of food options, including soup recipes, vegetarian dishes, and drinks. There are also sections for fan favorites and a search bar to help customers find what they're looking for. The website includes a contact section.
 - Wood Website(link-to-your-project): A brief description of the project.
 - Jewel Website(link-to-your-project): A brief description of the project.
 
