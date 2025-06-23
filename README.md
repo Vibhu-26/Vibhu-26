@@ -5,7 +5,7 @@ I am a College Student with a passion for Frontend Developer. I enjoy working on
 
 ## 🌱 I’m currently learning
 - HTML, CSS, and JavaScript for front-end development
-- Python
+- Java
 
 ## 💼 My Projects
 Here are a few projects I've worked on:
